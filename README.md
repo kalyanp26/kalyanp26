@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/100776074/186128407-9dcde78e-1ee5-4755-b26d-c410b66091d2.jpg)]
+![MasterHead](https://user-images.githubusercontent.com/100776074/186128407-9dcde78e-1ee5-4755-b26d-c410b66091d2.jpg)
 <h1 align="center">Hi 👋, I'm Kalyan Prasad</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
